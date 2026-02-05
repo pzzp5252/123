@@ -64,6 +64,7 @@
       { "domain_suffix": ["googleapis.cn", "xn--ngstr-lra8j.com", "services.googleapis.cn"], "outbound": "🍀 Google" },
       { "domain_suffix": ["steamcommunity.com", "steamusercontent.com", "steam-chat.com", "steampowered.com"], "outbound": "🎮 游戏平台" },
       { "domain_suffix": ["steamcontent.com", "steamserver.net", "steamstatic.com", "steampipe.akamaized.net"], "outbound": "🎯 全球直连" },
+      { "domain_suffix": ["mikanani.me", "mikanime.tv"], "outbound": "🚀 默认代理" },
       { "rule_set": "geosite-ai", "outbound": "🧠 AI" },
       { "rule_set": "geosite-google", "outbound": "🍀 Google" },
       { "rule_set": "geosite-github", "outbound": "👨‍💻 Github" },
